@@ -2,7 +2,7 @@
 
 <h2>DISCLAIMER:</h2>
 The <strong>"MIT-LICENCE"</strong> guides this repository. You have the permission to use, copy, modify, merge, publish, distribute, sublicense, or reupload this content to any GitHub Repository. However, we kindly ask that you give credit to <strong>"Fixitgearware Security"</strong>. We have a strong belief that you will abide by the cybersecurity rules, ethics, and conducts. 
-Copyright (c) 2023 FixitgearwareSecurity.
+Copyright (c) 2024 FixitgearwareSecurity.
 <br><br>
 <strong>Published Date:</strong>&nbsp;06-MAY-2024.
 <br>
