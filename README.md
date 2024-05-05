@@ -44,5 +44,5 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 <table>
 <tr>
-<td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>CHANGES MADE</strong></td>
+<td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>WITHDRAWN FROM</strong></td><td><strong>IMPLEMENTED IN</strong></td>
 </tr>
