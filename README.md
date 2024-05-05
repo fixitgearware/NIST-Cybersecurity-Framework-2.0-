@@ -50,13 +50,13 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/2.%20IDENTIFY.md">IDENTIFY (Also known as  IDENTIFICATION).</a></ul></li> 
 
-<li><ul>PROTECT (Also known as PROTECTION).</ul></li> 
+<li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/3.%20PROTECT.md">PROTECT (Also known as PROTECTION).</a></ul></li> 
 
-<li><ul> DETECT (Also known as DETECTION).</ul></li> 
+<li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/4.%20DETECT.md">DETECT (Also known as DETECTION).</a></ul></li> 
 
-<li><ul> RESPOND (Also known as RESPONSE).</ul></li> 
+<li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/5.%20RESPOND.md">RESPOND (Also known as RESPONSE).</a></ul></li> 
 
-<li><ul> RECOVER (Also known as RECOVERY).</ul></li> 
+<li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/6.%20RECOVER.md">RECOVER (Also known as RECOVERY).</a></ul></li> 
 
 <br><br>
 
