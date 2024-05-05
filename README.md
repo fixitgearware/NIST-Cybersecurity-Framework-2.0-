@@ -10,11 +10,14 @@ Copyright (c) 2024 FixitgearwareSecurity.
 <br>
 
 <br>
-<h2>Support & Donations:</h2> 
+<h2>Relevant Informations:</h2> 
 <strong>Our Website:</strong>&nbsp;<span>https://www.fixitgearware.com/</span>
-<br>
+<br><br>
 <strong>Our Affiliate Store:</strong>&nbsp;<span>https://www.fixitgearware.com/store/</span>
-<br>
+<br><br>
+<strong>Donation & Support:</strong>&nbsp;<span>https://www.fixitgearware.com/services/donations_support/</span>
+<br><br>
+
 
 
 <br>
