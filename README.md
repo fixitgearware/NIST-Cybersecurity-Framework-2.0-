@@ -36,6 +36,32 @@ The <a href="https://www.fixitgearware.com/cybsec-news/cyber-security/the-nist-c
 
 This executive order initiated the voluntary development of a Cybersecurity Framework. This framework offers a <strong>“prioritized, flexible, repeatable, performance-based, and cost-effective approach,”</strong> assisting organizations that use critical infrastructure services in managing cybersecurity risk.
 <br><br>
+Ever since this Framework was created, cybersecurity professionals, have used this tool as a guideline in strategizing ways on how its organization manages its cybersecurity risk, and priorortizing cybersecurity as a key component of its organization. 
+
+In its commitment to ensure Cybersecurity awareness and Cybersecurity Risk Management, 11-years and 13-days later, The National Institute of Standards and Technology, has instituted a new manual. This new document titled CSF 2.0 (Cybersecurity Framework 2.0), is a modification of the Cybersecurity Framework V1.1, and  was officially released in February 26-2024. 
+
+In the new CSF2.0 drastic changes were implemented, with the introduction of the “GOVERNANCE” Function. What does this mean ? Organizations are now able to implement these Functions available in the Cybersecurity Framework  2.0 (CSF 2.0),  in planning their various organizations cybersecurity  risk management strategy, in protecting its critical infrastructures. 
+
+
+<h3>THE CSF 2.0  FUNCTIONS UPDATED IN THE RIGHT OTHER ARE:</h3>
+<br>
+
+<li>
+ 
+<ul>GOVERN (Also known as  GOVERNANCE).</ul>
+
+ <ul>IDENTIFY (Also known as  IDENTIFICATION).</ul>
+
+<ul>PROTECT (Also known as PROTECTION) </ul>
+
+<ul> DETECT (Also known as DETECTION)</ul>
+
+<ul> RESPOND (Also known as RESPONSE)</ul>
+
+<ul> RECOVER (Also known as RECOVERY)</ul>
+
+</li>
+<br><br>
 
 Below is a brief summary of this framework's functions. For a detailed view of the various functions and their applications in planning your organization's risk assessment, please follow the corresponding Github repository link for each function.<br><br>
 <br>
