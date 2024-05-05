@@ -50,13 +50,13 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <li><ul>IDENTIFY (Also known as  IDENTIFICATION).</ul></li> 
 
-<li><ul>PROTECT (Also known as PROTECTION) </ul></li> 
+<li><ul>PROTECT (Also known as PROTECTION).</ul></li> 
 
-<li><ul> DETECT (Also known as DETECTION)</ul></li> 
+<li><ul> DETECT (Also known as DETECTION).</ul></li> 
 
-<li><ul> RESPOND (Also known as RESPONSE)</ul></li> 
+<li><ul> RESPOND (Also known as RESPONSE).</ul></li> 
 
-<li><ul> RECOVER (Also known as RECOVERY)</ul></li> 
+<li><ul> RECOVER (Also known as RECOVERY).</ul></li> 
 
 <br><br>
 
