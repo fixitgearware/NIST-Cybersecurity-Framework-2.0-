@@ -38,7 +38,7 @@ This executive order initiated the voluntary development of a Cybersecurity Fram
 <br><br>
 Ever since this Framework was created, cybersecurity professionals, have used this tool as a guideline in strategizing ways on how its organization manages its cybersecurity risk, and priorortizing cybersecurity as a key component of its organization. 
 
-In its commitment to ensure Cybersecurity awareness and Cybersecurity Risk Management, 11-years and 13-days later, <strong>"The National Institute of Standards and Technology. (NIST)"</strong>, has instituted a new manual. This new document titled CSF 2.0 (Cybersecurity Framework 2.0), is a modification of the Cybersecurity Framework V1.1, and  was officially released in February 26-2024. 
+In its commitment to ensure Cybersecurity awareness and Cybersecurity Risk Management, 11-years and 13-days later, <strong><a href="https://www.nist.gov/">"The National Institute of Standards and Technology. (NIST)"</a></strong>, has instituted a new manual. This new document titled CSF 2.0 (Cybersecurity Framework 2.0), is a modification of the Cybersecurity Framework V1.1, and  was officially released in February 26-2024. 
 
 In the new CSF2.0 drastic changes were implemented, with the introduction of the “GOVERNANCE” Function. What does this mean ? Organizations are now able to implement these Functions available in the Cybersecurity Framework  2.0 (CSF 2.0),  in planning their various organizations cybersecurity  risk management strategy, in protecting its critical infrastructures. 
 
@@ -48,17 +48,17 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <li>
  
-<ul>GOVERN (Also known as  GOVERNANCE).</ul></li>
+<li> <ul>GOVERN (Also known as  GOVERNANCE).</ul></li>
 
 <li><ul>IDENTIFY (Also known as  IDENTIFICATION).</ul></li> 
 
-<ul>PROTECT (Also known as PROTECTION) </ul>
+<li><ul>PROTECT (Also known as PROTECTION) </ul></li> 
 
-<ul> DETECT (Also known as DETECTION)</ul>
+<li><ul> DETECT (Also known as DETECTION)</ul></li> 
 
-<ul> RESPOND (Also known as RESPONSE)</ul>
+<li><ul> RESPOND (Also known as RESPONSE)</ul></li> 
 
-<ul> RECOVER (Also known as RECOVERY)</ul>
+<li><ul> RECOVER (Also known as RECOVERY)</ul></li> 
 
 </li>
 <br><br>
