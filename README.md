@@ -37,7 +37,7 @@ The <a href="https://www.fixitgearware.com/cybsec-news/cyber-security/the-nist-c
 This executive order initiated the voluntary development of a Cybersecurity Framework. This framework offers a <strong>“prioritized, flexible, repeatable, performance-based, and cost-effective approach,”</strong> assisting organizations that use critical infrastructure services in managing cybersecurity risk.
 <br><br>
 Below is a brief summary of this framework's functions. For a detailed view of the various functions and their applications in planning your organization's risk assessment, please follow the corresponding Github repository link for each function.<br><br>
-
+<br>
 <table>
 <tr>
 <td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>CATEGORY WITHDRAWN</strong></td><td><strong>SUB-CATEGORY WITHDRAWN</strong></td><td><strong>IMPLEMENTED IN</strong></td>
