@@ -46,7 +46,7 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 <h3>THE CSF 2.0  FUNCTIONS UPDATED IN THE RIGHT OTHER ARE:</h3>
 <br>
  
-<li><ul><a href=“https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/1.%20GOVERN.md ”>GOVERN (Also known as  GOVERNANCE).</a></ul></li>
+<li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/1.%20GOVERN.md">GOVERN (Also known as  GOVERNANCE).</a></ul></li>
 
 <li><ul>IDENTIFY (Also known as  IDENTIFICATION).</ul></li> 
 
