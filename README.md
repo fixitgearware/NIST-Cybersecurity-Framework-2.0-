@@ -48,9 +48,9 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <li>
  
-<ul>GOVERN (Also known as  GOVERNANCE).</ul>
+<ul>GOVERN (Also known as  GOVERNANCE).</ul></li>
 
- <ul>IDENTIFY (Also known as  IDENTIFICATION).</ul>
+<li><ul>IDENTIFY (Also known as  IDENTIFICATION).</ul></li> 
 
 <ul>PROTECT (Also known as PROTECTION) </ul>
 
