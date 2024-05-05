@@ -31,10 +31,6 @@ Reference Guide in Planning Organizations "Risk Assessment &amp; Risk Management
 
 ![](assets/NIST-CF2.0.png)
 <br>
-
-
-
-
 <br>
 The <a href="https://www.fixitgearware.com/cybsec-news/cyber-security/the-nist-cyber-security-framework/2023/09/07/">NIST Cyber Security framework (CSF 2.0)</a>, Finalized in February 26 2024 <a href="https://www.dhs.gov/publication/executive-orders-13636-and-13691-privacy-and-civil-liberties-assessment-reports#:~:text=Executive%20Order%2013636%2C%20Improving%20Critical,neutral%20cybersecurity%20framework%2C%20and%20to">Executive Order 13636 (EO) (Executive Orders 13636 and 13691 Privacy and Civil Liberties Assessment Reports)</a>, titled <strong>“Improving Critical Infrastructure Cybersecurity”</strong> on February 12th, 2013.<br><br>
 
