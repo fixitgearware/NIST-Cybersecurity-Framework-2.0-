@@ -45,8 +45,6 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <h3>THE CSF 2.0  FUNCTIONS UPDATED IN THE RIGHT OTHER ARE:</h3>
 <br>
-
-<li>
  
 <li> <ul>GOVERN (Also known as  GOVERNANCE).</ul></li>
 
@@ -60,7 +58,6 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <li><ul> RECOVER (Also known as RECOVERY)</ul></li> 
 
-</li>
 <br><br>
 
 Below is a brief summary of this framework's functions. For a detailed view of the various functions and their applications in planning your organization's risk assessment, please follow the corresponding Github repository link for each function.<br><br>
