@@ -13,6 +13,8 @@ Copyright (c) 2024 FixitgearwareSecurity.
 <h2>Support & Donations:</h2> 
 <strong>Our Website:</strong>&nbsp;<span>https://www.fixitgearware.com/</span>
 <br>
+<strong>Our Affiliate Store:</strong>&nbsp;<span>https://www.fixitgearware.com/store/</span>
+<br>
 
 
 <br>
