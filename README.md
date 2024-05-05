@@ -11,9 +11,8 @@ Copyright (c) 2024 FixitgearwareSecurity.
 
 <br>
 <h2>MIT LICENCE</h2>
-<a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/LICENSE">Read the MIT-LICENCE</a>
+<a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/LICENSE">Read the MIT-LICENCE</a>
 <br><br>
-
 
 
 Reference Guide in Planning Organizations "Risk Assessment &amp; Risk Management" using the cybersecurity framework.
