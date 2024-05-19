@@ -61,7 +61,7 @@ In its commitment to ensure Cybersecurity awareness and Risk Management, 11-year
 In the new CSF2.0 drastic changes were implemented, with the introduction of the <strong>“GOVERN”</strong> Function. What does this mean ? Organizations are now able to implement these Functions available in the Cybersecurity Framework  2.0 (CSF 2.0),  in planning their various organizations cybersecurity  risk management strategy, in protecting its critical infrastructures. 
 
 
-<h3>THE CSF 2.0  FUNCTIONS UPDATED IN THE RIGHT OTHER ARE:</h3>
+<h2>THE CSF 2.0  FUNCTIONS UPDATED IN THE RIGHT OTHER ARE:</h2>
 <br>
  
 <li><ul><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/1.%20GOVERN.md">GOVERN (Also known as  GOVERNANCE).</a></ul></li>
@@ -78,24 +78,25 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <br><br>
 
+<ins>
 
 
-<h3>TABLE DESCRIPTION:</h3>
+<h2>TABLE DESCRIPTION:</h2>
 <br>
  
-<li><ul><strong>FUNCTION:<strong> This column list the functions of the NIST CSF2.0</ul></li>
+<li><ul><ins><strong>FUNCTION:</strong></ins><br> This column list the functions of the NIST CSF2.0</ul></li>
 
-<li><ul><strong>ID:<strong>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li> 
+<li><ul><ins><strong>ID:</strong></ins><br>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li> 
 
-<li><ul><strong>BRIEF EXPLANATION:<strong>This column explains what the function in that specific row is all about. e.g Govern -> GV -> "The Organization's Cybersecurity Risk Management Strategy."</ul></li>
+<li><ul><ins><strong>BRIEF EXPLANATION:</strong></ins><br> This column explains what the function in that specific row is all about. e.g Govern -> GV -> "The Organization's Cybersecurity Risk Management Strategy."</ul></li>
 
-<li><ul><strong>CATEGORIES:<strong> List the various categories assigned to the specific function in that row. e.g. Govern->GV-> GV.OC, GV.RM, GV.RR, GV.PO, GV.OV, GV.SC.</ul></li>
+<li><ul><ins><strong>CATEGORIES:</strong></ins><br>List the various categories assigned to the specific function in that row. e.g. Govern->GV-> GV.OC, GV.RM, GV.RR, GV.PO, GV.OV, GV.SC.</ul></li>
 
-<li><ul><strong>CSF(V1.1) REFERENCE:<strong>The link, to the old version of the Framework.</ul></li>
+<li><ul><ins><strong>CSF(V1.1) REFERENCE:</strong></ins><br>The link, to the old version of the Framework.</ul></li>
 
-<li><ul><strong>CATEGORY WITHDRAWN:<strong>This column, contains the Category that was withdrawn, from the function, when referenced to the NIST CSF V1.1.</ul></li> 
+<li><ul><ins><strong>CATEGORY WITHDRAWN:</strong></ins><br>This column, contains the Category that was withdrawn, from the function, when referenced to the NIST CSF V1.1.</ul></li> 
 
-<li><ul><strong>NEW CATEGORY:<strong>Here are listed the new categories introduced in the functions e.g. IDENTIFY->ID-> ID.IM Improvement (New Category in the IDENTIFY Function).</ul></li>
+<li><ul><ins><strong>NEW CATEGORY:</strong></ins><br>Here are listed the new categories introduced in the functions e.g. IDENTIFY->ID-> ID.IM Improvement (New Category in the IDENTIFY Function).</ul></li>
 
 
 <br><br>
