@@ -58,7 +58,7 @@ Ever since this Framework was created, cybersecurity professionals, have used th
 
 In its commitment to ensure Cybersecurity awareness and Risk Management, 11-years and 13-days later, <strong><a href="https://www.nist.gov/">"The National Institute of Standards and Technology. (NIST)"</a></strong>, has instituted a new manual. This new document titled CSF 2.0 (Cybersecurity Framework 2.0), is a modification of the Cybersecurity Framework V1.1, and  was officially released in February 26-2024. 
 
-In the new CSF2.0 drastic changes were implemented, with the introduction of the “GOVERNANCE” Function. What does this mean ? Organizations are now able to implement these Functions available in the Cybersecurity Framework  2.0 (CSF 2.0),  in planning their various organizations cybersecurity  risk management strategy, in protecting its critical infrastructures. 
+In the new CSF2.0 drastic changes were implemented, with the introduction of the “GOVERN” Function. What does this mean ? Organizations are now able to implement these Functions available in the Cybersecurity Framework  2.0 (CSF 2.0),  in planning their various organizations cybersecurity  risk management strategy, in protecting its critical infrastructures. 
 
 
 <h3>THE CSF 2.0  FUNCTIONS UPDATED IN THE RIGHT OTHER ARE:</h3>
