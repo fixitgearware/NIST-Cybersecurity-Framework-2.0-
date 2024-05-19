@@ -64,7 +64,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 <br>
 <table>
 <tr>
-<td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>CATEGORY WITHDRAWN</strong></td><td><strong>OLD <!--SUB-CATEGORY--></strong></td><td><strong>NEW</strong></td>
+<td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>CATEGORY WITHDRAWN</strong></td><!--SUB-CATEGORY--><td><strong>NEW <br>SUBCATEGORY</strong></td>
 </tr>
 
 
@@ -73,7 +73,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 <td>GOVERN</td><td> GV </td><td> The NIST Function <strong>"GOVERN" </strong> is a new addition to the Cybersecurity Framework (CSF) 2.0, designed to emphasize the importance of governance, risk management, and leadership in cybersecurity.<br>
  It represents a strategic pivot in the framework, acknowledging the critical role of organizational context, cybersecurity risk management, and oversight in managing cybersecurity risks effectively. This function aims in eliminating the obscurity and bring to a clear understanding on accountability. It consist of categories such as the "Organizational Context", which constantly focuses on having a clear understanding and continuously accessing its cybersecurity posture, by which the organization conducts its businesses. 
- </td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong><br><br> &#x2022; Policy <br><strong>(GV.PO)</strong><br><br> &#x2022; Oversight <br><strong>(GV.OV)<br><br> &#x2022; Cybersecurity Supply Chain Risk Management <br><strong>(GV.SC)</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td> 
+ </td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong><br><br> &#x2022; Policy <br><strong>(GV.PO)</strong><br><br> &#x2022; Oversight <br><strong>(GV.OV)<br><br> &#x2022; Cybersecurity Supply Chain Risk Management <br><strong>(GV.SC)</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td> 
 </tr>
 </tr>
 </tr>
@@ -86,11 +86,11 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 <!-- Here the Identify Function Code Begins.-->
 
 
-
+<!-- <td>&#x2022;<strong>GitHub<br>:</strong><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/IDENTIFY.md" target="_blank">Repository</a><br></td> -->
 
 
 <td> IDENTIFY</td><td> ID </td><td>The Function&nbsp;<strong>"IDENTIFY"</strong>in NIST CSF 2.0, plays a vital role, that ensures the organization's present cybersecurity risks are properly understood. This includes the organization's assets i.e (personnels,systems,hardware, data,software,facilities), vendors and related cybersecurity risk. <br>It further enables the organization to priortize its risk management strategy consistently, and its mission properly; identified under the GOVERN function of CSF 2.0.<br> In additon, the function includes the identification of opportunities that would improve the organization's policies,plans, processes, procedures, and practises, that promotes cybersecurity risk management, in notifying efforts under all the six functions (Govern, Identify,Detect,Protect,Respond,Recover). 
-</td><td>&#x2022; Asset Management <br><strong>(ID.AM)</strong><br><br> &#x2022; Risk Assessment<br><strong>(ID.RA)</strong><br><br> &#x2022; Improvement<br><strong>(ID.IM)</strong><br></td><td>&#x2022; <strong>Website :</strong><br><a href="https://www.fixitgearware.com/cybsec-news/cyber-security/the-nist-framework-cheatsheet-for-identify/2023/09/11/" target="_blank">Identify Function.</a><br><br>&#x2022; <strong>GitHub<br>:</strong><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/README.md" target="_blank">Repository</a><td>&#x2022;<strong>ID.BE</strong><br>&#x2022;Business Environment<br><br>&#x2022;<strong>ID.GV</strong><br>&#x2022;Governance<br><br>&#x2022;<strong>ID.RM</strong><br>&#x2022;Risk Management Strategy<br></td><td>&#x2022;<strong>GitHub<br>:</strong><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/IDENTIFY.md" target="_blank">Repository</a><br></td><td>&#x2022;<strong>ID.IM</strong><br><br>
+</td><td>&#x2022; Asset Management <br><strong>(ID.AM)</strong><br><br> &#x2022; Risk Assessment<br><strong>(ID.RA)</strong><br><br> &#x2022; Improvement<br><strong>(ID.IM)</strong><br></td><td>&#x2022; <strong>Website :</strong><br><a href="https://www.fixitgearware.com/cybsec-news/cyber-security/the-nist-framework-cheatsheet-for-identify/2023/09/11/" target="_blank">Identify Function.</a><br><br>&#x2022; <strong>GitHub<br>:</strong><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/README.md" target="_blank">Repository</a><td>&#x2022;<strong>ID.BE</strong><br>&#x2022;Business Environment<br><br>&#x2022;<strong>ID.GV</strong><br>&#x2022;Governance<br><br>&#x2022;<strong>ID.RM</strong><br>&#x2022;Risk Management Strategy<br></td><td>&#x2022;<strong>ID.IM</strong><br><br>
  &#x2022;Impro-<br>vement.</td> 
 </tr>
 </tr>
