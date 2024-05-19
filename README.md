@@ -84,7 +84,7 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 <h2>TABLE DESCRIPTION:</h2>
 <br>
  
-<li><ul><strong>FUNCTION:</strong><br> This column list the functions of the NIST CSF2.0</ul></li>
+<li><ul><strong><ins>FUNCTION:</ins></strong><br> This column list the functions of the NIST CSF2.0</ul></li>
 
 <li><ul><strong>ID:</strong><br>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li> 
 
