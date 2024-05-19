@@ -78,7 +78,7 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 <br><br>
 
-<ins>
+
 
 
 <h2>TABLE DESCRIPTION:</h2>
