@@ -23,10 +23,10 @@ Copyright (c) 2024 FixitgearwareSecurity.
 <br>
 <h2>MIT LICENCE</h2>
 <a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/LICENSE">Read the MIT-LICENCE</a>
-<br>
+<br><br>
 
 
-<h2>Reference Guide in Planning Organizations "Risk Assessment &amp; Risk Management" using the cybersecurity framework.</h2>
+<h2> THE NIST CSF2.0 A NEW REFERENCE GUIDE IN PLANNING ORGANIZATIONS "RISK ASSESSMENT &amp; RISK MANAGEMENT".</h2>
 
 
 ![](assets/NIST-CF2.0.png)
