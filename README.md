@@ -112,7 +112,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 <td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>CATEGORY WITHDRAWN</strong></td><!--SUB-CATEGORY--><td><strong>NEW CATEGORY</strong></td>
 </tr>
 
-$\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
+<code style="color : green">Hello</code>
 
 <!-- Here the Govern Function Code Begins.-->
 
