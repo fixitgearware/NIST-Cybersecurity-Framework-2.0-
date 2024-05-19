@@ -39,7 +39,7 @@ The executive order initiated the voluntary development of a Cybersecurity Frame
 <br>
 Ever since this Framework was created, cybersecurity professionals, have used this tool as a guideline in strategizing ways on how its organization manages its cybersecurity risk, and priorortizing cybersecurity as a key component of its organization. 
 
-<h3>REFER TO THE VARIOUS FUNCTION OF THE NIST CSF V1.1 ON GITHUB:</h3>
+<h2>REFER TO THE VARIOUS FUNCTIONS OF THE NIST CSF V1.1 ON GITHUB:</h2>
 <br>
  
 <li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/IDENTIFY.md">IDENTIFY (Also known as  IDENTIFICATION).</a></ul></li> 
