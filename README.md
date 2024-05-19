@@ -34,6 +34,23 @@ Reference Guide in Planning Organizations "Risk Assessment &amp; Risk Management
 
 The <a href="https://www.fixitgearware.com/cybsec-news/cyber-security/the-nist-cyber-security-framework/2023/09/07/">NIST Cyber Security framework (V1.1)</a>, originated from the United States of America's concern for its national and economic security, which heavily relies on the functioning of critical infrastructures. <br>To ensure the resilience and longevity of these infrastructures, Barack Obama, who was the President of the United States at the time, issued <a href="https://www.dhs.gov/publication/executive-orders-13636-and-13691-privacy-and-civil-liberties-assessment-reports#:~:text=Executive%20Order%2013636%2C%20Improving%20Critical,neutral%20cybersecurity%20framework%2C%20and%20to">Executive Order 13636 (EO) (Executive Orders 13636 and 13691 Privacy and Civil Liberties Assessment Reports)</a>, titled <strong>“Improving Critical Infrastructure Cybersecurity”</strong> on February 12th, 2013.<br>
 
+<h3>REFER TO THE VARIOUS FUNCTION OF THE NIST CSF V1.1 ON GITHUB:</h3>
+<br>
+ 
+<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/IDENTIFY.md">IDENTIFY (Also known as  IDENTIFICATION).</a></ul></li> 
+
+<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/PROTECT.md">PROTECT (Also known as PROTECTION).</a></ul></li> 
+
+<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/DETECT.md">DETECT (Also known as DETECTION).</a></ul></li> 
+
+<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/RESPOND.md">RESPOND (Also known as RESPONSE).</a></ul></li> 
+
+<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/RECOVER.md">RECOVER (Also known as RECOVERY).</a></ul></li> 
+
+<br><br>
+
+
+
 The executive order initiated the voluntary development of a Cybersecurity Framework. This framework offers a <strong>“prioritized, flexible, repeatable, performance-based, and cost-effective approach,”</strong> assisting organizations that use critical infrastructure services in managing cybersecurity risk.
 <br>
 Ever since this Framework was created, cybersecurity professionals, have used this tool as a guideline in strategizing ways on how its organization manages its cybersecurity risk, and priorortizing cybersecurity as a key component of its organization. 
@@ -62,20 +79,7 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 
 
 
-<h3>REFER TO THE NIST CSF V1.1:</h3>
-<br>
- 
-<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/IDENTIFY.md">IDENTIFY (Also known as  IDENTIFICATION).</a></ul></li> 
 
-<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/PROTECT.md">PROTECT (Also known as PROTECTION).</a></ul></li> 
-
-<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/DETECT.md">DETECT (Also known as DETECTION).</a></ul></li> 
-
-<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/RESPOND.md">RESPOND (Also known as RESPONSE).</a></ul></li> 
-
-<li><ul><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/RECOVER.md">RECOVER (Also known as RECOVERY).</a></ul></li> 
-
-<br><br>
 
 
 
