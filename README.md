@@ -84,9 +84,9 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 <h2>TABLE DESCRIPTION:</h2>
 <br>
  
-<li><ul><ins><strong>FUNCTION:</strong></ins><br> This column list the functions of the NIST CSF2.0</ul></li>
+<li><ul><strong><ins>FUNCTION:</ins></strong><br> This column list the functions of the NIST CSF2.0</ul></li>
 
-<li><ul><ins><strong>ID:</strong></ins><br>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li> 
+<li><ul><strong><ins>ID:</ins></strong><br>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li> 
 
 <li><ul><ins><strong>BRIEF EXPLANATION:</strong></ins><br> This column explains what the function in that specific row is all about. e.g Govern -> GV -> "The Organization's Cybersecurity Risk Management Strategy."</ul></li>
 
