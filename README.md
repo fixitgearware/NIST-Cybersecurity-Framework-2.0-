@@ -77,7 +77,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 <td>IDENTIFY</td><td> ID</td><td> The NIST Cybersecurity Framework's <strong>"IDENTIFY" </strong> function plays a crucial role in comprehending an organization's cybersecurity risk management for its assets, which include personnel, systems, data, and functions.<br>
  This function provides a deep understanding of the organization's business environment and the risks involved. Consequently, it enables the organization to devise a well-structured action plan and prioritize its efforts in line with its risk management strategy and business requirements. 
- </td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong><br><br> &#x2022; Policy <br><strong>(GV.PO)</strong><br><br> &#x2022; Oversight <br><strong>(GV.OV)<br><br> &#x2022; Cybersecurity Supply Chain Risk Management <br><strong>(GV.SC)</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td> 
+ </td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td> 
 </tr>
 </tr>
 </tr>
