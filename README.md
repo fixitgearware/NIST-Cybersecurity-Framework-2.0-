@@ -67,6 +67,10 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 <td><strong>FUNCTION</strong></td><td><strong>ID</strong></td><td><strong>BRIEF EXPLANATION</strong></td><td><strong>CATEGORIES</strong></td><td><strong>CSF(V1.1) REFERENCE</strong></td><td><strong>CATEGORY WITHDRAWN</strong></td><td><strong>OLD SUB-CATEGORY</strong></td><td><strong>NEW</strong></td>
 </tr>
 
+
+
+<!-- Here the Govern Function Code Begins.-->
+
 <td>GOVERN</td><td> GV </td><td> The NIST Function <strong>"GOVERN" </strong> is a new addition to the Cybersecurity Framework (CSF) 2.0, designed to emphasize the importance of governance, risk management, and leadership in cybersecurity.<br>
  It represents a strategic pivot in the framework, acknowledging the critical role of organizational context, cybersecurity risk management, and oversight in managing cybersecurity risks effectively. This function aims in eliminating the obscurity and bring to a clear understanding on accountability. It consist of categories such as the "Organizational Context", which constantly focuses on having a clear understanding and continuously accessing its cybersecurity posture, by which the organization conducts its businesses. 
  </td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong><br><br> &#x2022; Policy <br><strong>(GV.PO)</strong><br><br> &#x2022; Oversight <br><strong>(GV.OV)<br><br> &#x2022; Cybersecurity Supply Chain Risk Management <br><strong>(GV.SC)</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td> 
@@ -74,18 +78,12 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 </tr>
 </tr>
 
-
-<td>IDENTIFY</td><td> ID</td><td> The NIST Cybersecurity Framework's <strong>"IDENTIFY" </strong> function plays a crucial role in comprehending an organization's cybersecurity risk management for its assets, which include personnel, systems, data, and functions.<br>
- This function provides a deep understanding of the organization's business environment and the risks involved. Consequently, it enables the organization to devise a well-structured action plan and prioritize its efforts in line with its risk management strategy and business requirements. 
- </td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td> 
-</tr>
-</tr>
-</tr>
+<!-- Here the Govern Function Code Ends.-->
 
 
 
 
-
+<!-- Here the Identify Function Code Begins.-->
 
 
 
@@ -96,6 +94,11 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 </tr>
 </tr>
 </tr>
+
+<!-- Here the Identify Function Code Ends.-->
+
+
+
 
 
 </table>
