@@ -180,14 +180,6 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 
 
-
-
-
-
-
-
-
-
 <!-- Here the Response Function Code Begins.-->
 
 
@@ -199,13 +191,6 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 </tr>
 
 <!-- Here the Response Function Code Ends.-->
-
-
-
-
-
-
-
 
 
 
@@ -225,14 +210,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 
 
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 </table>
