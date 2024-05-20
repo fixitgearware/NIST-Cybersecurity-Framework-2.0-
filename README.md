@@ -193,7 +193,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 
 
-<td> Respond</td><td text-align="justify"> RS </td><td><ins><strong>Actions and Procedures are Implemented Regarding The Detected Cybersecurity Incident.</strong></ins><br><br>Upon Identifying, and priortizing the organization's risk, and assets, The Function&nbsp;<strong>"PROTECT"</strong>&nbsp;of the NIST CSF2.0 assist in securing those assets, to limit or eliminate the likelihood and impact of cybersecurity incidents, and preventing the compromise arising from such likelihood and impact. The development covered by this function includes Identity Management, Authentication, and Access Control; Awareness and Training; Data Security; Platform Security (comprising of Securing Hardware Components; Software Components; and Services which includes both physical and virtual platforms); and pliability of technology infrastructures. 
+<td> Respond</td><td text-align="justify"> RS </td><td><ins><strong>Actions and Procedures are Implemented Regarding The Detected Cybersecurity Incident.</strong></ins><br><br>The&nbsp;<strong>"RESPOND"</strong>&nbsp;Function of the NIST CSF2.0 contributes towards containing and limiting the effects of the cybersecurity incident. The sequelae within the RESPOND Function, also comprises of managing the incident (Incident Management), analysing the impact (Analysis), mitigation, reporting and communication. 
 </td><td>&#x2022; Identity Management, Authentication, and Access Control <br><strong>(PR.AA)</strong><br><br> &#x2022; Awareness and Training<br><strong>(PR.AT)</strong><br><br> &#x2022; Data Security<br><strong>(PR.DS)</strong><br><br><br> &#x2022; Platform Security<br><strong>(PR.PS)</strong><br><br><br> &#x2022; Technology Infrastructure Resilience<br><strong>(PR.IR)</strong><br></td><td>&#x2022; <strong>Website :</strong><br><a href="https://www.fixitgearware.com/cybsec-news/cyber-security/part2-the-nist-framework-cheatsheet-for-protect/2023/10/03 "target="_blank">Protect Function.</a><br><br>&#x2022; <strong>GitHub<br>:</strong><a href="https://github.com/fixitgearware/NIST-CYBERSECURITY-FRAMEWORK-V1.1/blob/main/README.md" target="_blank">Repository</a><td>&#x2022;<strong>PR.AC</strong><br>&#x2022;Access Control<br><br>&#x2022;<strong>PR.IP</strong><br>&#x2022;Information Protection, Processes, and Procedures<br><br>&#x2022;<strong>PR.MA</strong><br>&#x2022;Maintenance<br><br><br>&#x2022;<strong>PR.PT</strong><br>&#x2022;Protective Technology<br></td><td>&#x2022;<strong>PR.AA</strong><br>
  &#x2022;Identity Management, Authentication, and Access Control.<br><br>&#x2022;<strong>PR.PS</strong><br>&#x2022;Platform Security.<br><br>&#x2022;<strong>PR.IR</strong><br>&#x2022;Technology Infrastructure Resilience.</td> 
 </tr>
@@ -206,7 +206,7 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 
 
 
-
+The RESPOND Function of the CSF2.0 
 
 
 
