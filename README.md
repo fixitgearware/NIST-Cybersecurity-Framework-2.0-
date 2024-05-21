@@ -116,14 +116,14 @@ Below is a brief summary of this framework's functions. For a detailed view of t
 <!-- Here the Govern Function Code Begins.-->
 
 <td>GOVERN</td><td> GV </td><td text-align="justify"><ins><strong>The Organization's Cybersecurity Risk Management Strategy,Expectations, and Policy Are Established, Communicated, and Monitored.</strong></ins><br><br>The NIST Function <strong>"GOVERN" </strong> is a new addition to the Cybersecurity Framework (CSF) 2.0, designed to emphasize the importance of governance, risk management, and leadership in cybersecurity.<br>
- It provides deliverables, on actions to be taken by an organization, to achieve and prioritize the outcomes of the other five functions(Identify,Detect,Protect,Respond,Recover), regarding its mission, and stakeholders expectations. Governance activities are essential for the incorporation of cybersecurity, into an organization's larger Enterprise Risk Management(ERM) strategy. In addition, it addresses issues regarding the understanding of the organizational context; the establishment of cybersecurity strategy; and cybersecurity supply chain risk management; roles, responsibilities, and authorities; policy; and the oversight of cybersecurity strategy.</td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong><br><br> &#x2022; Policy <br><strong>(GV.PO)</strong><br><br> &#x2022; Oversight <br><strong>(GV.OV)<br><br> &#x2022; Cybersecurity Supply Chain Risk Management <br><strong>(GV.SC)</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td>  
+ It provides deliverables, on actions to be taken by an organization, to achieve and prioritize the outcomes of the other five functions(Identify,Detect,Protect,Respond,Recover), regarding its mission, and stakeholders expectations. Governance activities are essential for the incorporation of cybersecurity, into an organization's larger Enterprise Risk Management(ERM) strategy. In addition, it addresses issues regarding the understanding of the organizational context; the establishment of cybersecurity strategy; and cybersecurity supply chain risk management; roles, responsibilities, and authorities; policy; and the oversight of cybersecurity strategy.<br>
+&#x2022;<strong>GitHub<br>:</strong><a href="https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-/blob/main/1.%20GOVERN.md" target="_blank">Repository</a>
+</td><td> &#x2022; Organizational Context<br><strong>(GV.OC)</strong><br><br> &#x2022; Risk Management Strategy<br><strong>(GV.RM)</strong><br><br>&#x2022; Roles, Responsibilities, and Authorities<br><strong>(GV.RR)</strong><br><br> &#x2022; Policy <br><strong>(GV.PO)</strong><br><br> &#x2022; Oversight <br><strong>(GV.OV)<br><br> &#x2022; Cybersecurity Supply Chain Risk Management <br><strong>(GV.SC)</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td><td>&#x2022;<strong>NIL</strong><br></td>  
 </tr>
 </tr>
 </tr>
 
 <!-- Here the Govern Function Code Ends.-->
-
-
 
 
 <!-- Here the Identify Function Code Begins.-->
