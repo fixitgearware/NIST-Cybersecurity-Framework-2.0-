@@ -84,19 +84,19 @@ In the new CSF2.0 drastic changes were implemented, with the introduction of the
 <h2>TABLE DESCRIPTION:</h2>
 <br>
  
-<li><ul><strong><ins>FUNCTION:</ins></strong><br><br>This column list the functions of the NIST CSF2.0</ul></li>
+<li><ul><strong><ins>FUNCTION:</ins></strong><br>This column list the functions of the NIST CSF2.0</ul></li><br>
 
-<li><ul><strong><ins>ID:</ins></strong><br><br>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li> 
+<li><ul><strong><ins>ID:</ins></strong><br>This column contains the unique ID assigned to the respective function in that particular row e.g Govern, ID is 'GV'.</ul></li><br> 
 
-<li><ul><strong><ins>BRIEF EXPLANATION:</ins></strong><br><br>This column explains what the function in that specific row is all about. e.g Govern -> GV -> "The Organization's Cybersecurity Risk Management Strategy."</ul></li>
+<li><ul><strong><ins>BRIEF EXPLANATION:</ins></strong><br>This column explains what the function in that specific row is all about. e.g Govern -> GV -> "The Organization's Cybersecurity Risk Management Strategy."</ul></li><br>
 
-<li><ul><strong><ins>CATEGORIES:</ins></strong><br><br>List the various categories assigned to the specific function in that row. e.g. Govern->GV-> GV.OC, GV.RM, GV.RR, GV.PO, GV.OV, GV.SC.</ul></li>
+<li><ul><strong><ins>CATEGORIES:</ins></strong><br>List the various categories assigned to the specific function in that row. e.g. Govern->GV-> GV.OC, GV.RM, GV.RR, GV.PO, GV.OV, GV.SC.</ul></li><br>
 
-<li><ul><strong><ins>CSF(V1.1) REFERENCE:</ins></strong><br><br>The link, to the old version of the Framework.</ul></li>
+<li><ul><strong><ins>CSF(V1.1) REFERENCE:</ins></strong><br>The link, to the old version of the Framework.</ul></li><br>
 
-<li><ul><strong><ins>CATEGORY WITHDRAWN:</ins></strong><br><br>This column, contains the Category that was withdrawn, from the function, when referenced to the NIST CSF V1.1.</ul></li> 
+<li><ul><strong><ins>CATEGORY WITHDRAWN:</ins></strong><br>This column, contains the Category that was withdrawn, from the function, when referenced to the NIST CSF V1.1.</ul></li><br> 
 
-<li><ul><strong><ins>NEW CATEGORY:</ins></strong><br><br>Here are listed the new categories introduced in the functions e.g. IDENTIFY->ID-> ID.IM Improvement (New Category in the IDENTIFY Function).</ul></li>
+<li><ul><strong><ins>NEW CATEGORY:</ins></strong><br>Here are listed the new categories introduced in the functions e.g. IDENTIFY->ID-> ID.IM Improvement (New Category in the IDENTIFY Function).</ul></li><br>
 
 
 <br><br>
